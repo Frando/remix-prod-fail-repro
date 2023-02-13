@@ -1,4 +1,4 @@
-# repro for "`@remix-run/dev required in production`"
+# repro for [remix #5477](https://github.com/remix-run/remix/issues/5447)
 
 ### 1) install, build, start (in development mode)
 ```
